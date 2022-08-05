@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./public/calculator_demo.png" alt="Project preview">
+<img src="./public/calculator_demo.png" alt="Project preview" align="center">
 
 
 
