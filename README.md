@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rociogirardini/calculator/">
-    <img src="./public/calculator_logo" alt="Logo" height="80">
+    <img src="./public/calculator_logo.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">Calculator</h3>
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./media/calculator_demo.png" alt="Project preview">
+<img src="./public/calculator_demo.png" alt="Project preview">
 
 
 
