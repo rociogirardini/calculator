@@ -28,6 +28,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#status">Status</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -47,6 +48,10 @@
 * CSS3
 * JavaScript
 * React Js
+
+### Status
+
+Work in progress.
 
 <!-- CONTACT -->
 ## Contact
